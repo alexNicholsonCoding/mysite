@@ -1,0 +1,3 @@
+# Project exclude paths
+/django-pollsite-venv/
+/venv/
